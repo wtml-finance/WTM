@@ -1,0 +1,22 @@
+{
+    "name":"WTML Token List",
+    "timestamp":"2021-03-23T05:41:00+00:00",
+    "version":
+    {
+        "major":0,
+        "minor":0,
+        "patch":0
+    },
+    "keywords":["vircles","default","list"],
+    "tokens":[
+        {
+            "address":"0x615710191709897062d5f9ea357abc53c11e3d40",
+            "chainId":4,
+            "name":"WTML",
+            "symbol":"WTML",
+            "decimals":18,
+            "logoURI":"https://github.com/wtml-finance/wtml-finance/blob/main/wtml.png"
+        }
+    ],
+    "logoURI":"https://github.com/wtml-finance/wtml-finance/blob/main/wtmles.png"
+}
