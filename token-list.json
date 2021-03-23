@@ -1,17 +1,17 @@
 {
-  "name": "WTML",
+  "name": "wtml.finance",
   "logoURI": "https://github.com/wtml-finance/wtml-finance/blob/main/wtmles.png",
   "keywords": [
+      "wtml.finance",
       "WTML",
-      "WTML",
-      "yield"
+      "WTML"
     ],
-    "timestamp": "2021-03-23T01:40:34.305Z",
+    "timestamp": "2021-03-22T01:40:34.305Z",
     "tokens": [
       {
       "chainId": 1,
       "address": "0x615710191709897062d5f9ea357abc53c11e3d40",
-      "name": "WTML",
+      "name": "wtml.finance",
       "symbol": "WTML",
       "decimals": 18,
       "logoURI": "https://github.com/wtml-finance/wtml-finance/blob/main/wtml.png"
